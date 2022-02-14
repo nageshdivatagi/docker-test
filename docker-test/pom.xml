@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>docker-test</finalName>
 	</build>
 
 </project>
